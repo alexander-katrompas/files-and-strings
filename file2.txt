@@ -1,0 +1,5 @@
+This is another text file.
+It also has some lines in it.
+It also has some blank lines.
+
+And it does not have a trailing crlf.
