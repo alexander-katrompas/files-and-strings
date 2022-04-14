@@ -77,7 +77,7 @@ def main():
         print("no file passed")
     print()
 
-    # displaying file with line numbers and number of characters
+    # displaying file with line numbers and number of spaces
     # this does not check for argc in range, it uses exceptions instead
     try:
         fin = open(sys.argv[1], "r")
